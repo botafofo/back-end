@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(9, 255, 30)
+    background-color:rgb(0, 153, 255);
     text-align: center;
     text-transform: capitalize;
 }
@@ -7,6 +7,6 @@ body{
 #card{
     background-color: rgb(0, 153, 255);
     width: 20%;
-    margin-left: 750px;
-    margin-top: 300px;
+    margin-left: 700px;
+    margin-top: 090px;
 }
